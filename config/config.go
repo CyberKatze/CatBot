@@ -9,7 +9,7 @@ var(
 	Token string
 	BotPrefix string
 
-	config *configSruct
+	config *configStruct
 )
 
 type configStruct struct {

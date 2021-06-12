@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./bot"
-	"./config"
+	"github.com/m3dsh/catbot/bot"
+	"github.com/m3dsh/catbot/config"
 	"fmt"
 )
 
